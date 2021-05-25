@@ -20,3 +20,20 @@ Pada Screenshot 2.1 di atas, Ketika user masuk ke menu "Your Cart" tanpa adanya 
 Perhatikan urutan gambar 2.2 dari atas ke bawah, jadi setelah user melakukan memesan 4 item akan muncul 4 item pada cart. Kemudian user remove 1 item yang menjadi item di cart menjadi 3 item. Selanjutnya user klik tombol icon cart seperti gambar 2, item pada cart akan berkurang menjadi 2 item namun dengan kondisi gambar pada icon cart masih berjumlah 3. 
   
 </p>
+
+## Logic Test : 10
+@@ -35,7 +35,7 @@ Now, answer the following questions based on the above API. Important - Add scre
+```
+
+<p align="left">
+  Show data with parameters such as : <br>
+  Show data with parameters such as with postman : <br>
+  - Name      : Pres. Aasa Malik<br>
+  - Status    : Active<br>
+  - Gender    : Female
+  
+  and create a validating schema for that result
+  
+  
+  
+</p>
