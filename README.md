@@ -74,8 +74,21 @@ inner join Order on Customer.id = Order.cust_id
   
 inner join Product on Order.prod_id = Product.id
   
-where Product.id = ' A101' or 'A103'   
+where Product.id = ' A101' or 'A103'  
   
   
+Atau Cari satu per satu :
+ 
+SELECT  Customer.cust_name
+from Customer
+inner join Order on  Customer.id = Order.cust_id
+inner join Product on Order.prod_id = Product.id
+where Product.id = 'A101'   
+
+SELECT Customer.cust_name
+from Customer
+inner join Order on Customer.id = Order.cust_id
+inner join Product on Order.prod_id = Product.id
+where Product.id = 'A103'   
   
 </p>
