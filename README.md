@@ -98,9 +98,9 @@ SELECT *
   
 from Product
   
-innerjoin Order on Product.id = Order.cust_id
+inner join Order on Product.id = Order.cust_id
   
-innerjoin Customer on Order.cust_id = Customer.id
+inner join Customer on Order.cust_id = Customer.id
   
 where Customer.cust_name = 'budi' 
   
