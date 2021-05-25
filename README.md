@@ -53,6 +53,7 @@ Perhatikan urutan gambar 2.2 dari atas ke bawah, jadi setelah user melakukan mem
   
   **Answer:
 1. 
+  
 SELECT *
 from Order
 order by amount ASC
