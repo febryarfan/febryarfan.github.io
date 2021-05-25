@@ -14,6 +14,7 @@ Pada Screenshot 2.1 di atas, Ketika user masuk ke menu "Your Cart" tanpa adanya 
   
 <img width="951" alt="Screenshot (17)" src="https://user-images.githubusercontent.com/84786558/119531739-6ddb9b80-bdae-11eb-8d42-fe6ba40cecee.png">
 <img width="943" alt="Screenshot (18)" src="https://user-images.githubusercontent.com/84786558/119531808-7df37b00-bdae-11eb-85e0-270d2422ec95.png">
+  
 ![Screenshot (20)](https://user-images.githubusercontent.com/84786558/119531821-81870200-bdae-11eb-9c14-8e7035f48b86.png)
 
 Perhatikan urutan gambar 2.2 dari atas ke bawah, jadi setelah user melakukan memesan 4 item akan muncul 4 item pada cart. Kemudian user remove 1 item yang menjadi item di cart menjadi 3 item. Selanjutnya user klik tombol icon cart seperti gambar 2, item pada cart akan berkurang menjadi 2 item namun dengan kondisi gambar pada icon cart masih berjumlah 3. 
