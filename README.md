@@ -107,3 +107,17 @@ where Customer.cust_name = 'budi'
   
   
 </p>
+
+## Automation Test : 30
+
+<p align="left">
+  1. Create automation testing to sign up for https://roomme.id<br>
+  2. use the tools you are good at, and combine the script with gherkin<br>
+  3. and make sure there are positive and negative cases<br>
+
+**Answer :
+ QA manual, jadi belum pernah menjalankan automation test menggunakan software 
+
+</p>
+
+
