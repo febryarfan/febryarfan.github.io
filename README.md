@@ -37,7 +37,25 @@ Perhatikan urutan gambar 2.2 dari atas ke bawah, jadi setelah user melakukan mem
 
 
 **Answer : 
+  
 {"code":200,"meta":{"pagination":{"total":1600,"pages":80,"page":2,"limit":20}},"data":[{"id":34,"name":"Pres. Aasa Malik","email":"aasamalik@gmail.com","gender":"Female","status":"Active","created_at":"2021-05-25T04:50:03.837+05:30","updated_at":"2021-05-25T04:50:04.378+05:30"}]}
 
+</p>
+
+
+## Query Test : 20
+<p align="left">
+  Write database query for below based on the table shown <br>
+  <img src="https://ngomah.com/wp-content/uploads/2021/05/test-query.jpg"/><br>
+  1. Display all detail in table “order” from low price to high price<br>
+  2. Display the cust_name who purchased the prod_id A101 and A103<br>
+  3. Display All detail in table Product purchased by Budi
+  
+  **Answer:
+1. 
+SELECT *
+from Order
+order by amount ASC
+  
   
 </p>
