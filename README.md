@@ -52,6 +52,7 @@ Perhatikan urutan gambar 2.2 dari atas ke bawah, jadi setelah user melakukan mem
   3. Display All detail in table Product purchased by Budi
   
   **Answer:
+  
 1. 
   
 SELECT *
