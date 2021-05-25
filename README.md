@@ -53,7 +53,7 @@ Perhatikan urutan gambar 2.2 dari atas ke bawah, jadi setelah user melakukan mem
   
   **Answer:
   
-(Nomor 1)
+((Nomor 1))
   
 SELECT *
   
@@ -64,7 +64,7 @@ order by amount ASC
   
   
   
-(Nomor 2)
+((Nomor 2))
   
 SELECT Customer.cust_name
   
@@ -90,5 +90,20 @@ from Customer
 inner join Order on Customer.id = Order.cust_id
 inner join Product on Order.prod_id = Product.id
 where Product.id = 'A103'   
+  
+  
+((Nomor 3))  
+  
+SELECT *
+  
+from Product
+  
+innerjoin Order on Product.id = Order.cust_id
+  
+innerjoin Customer on Order.cust_id = Customer.id
+  
+where Customer.cust_name = 'budi' 
+  
+  
   
 </p>
