@@ -21,9 +21,20 @@ Pada Screenshot 2.1 di atas, Ketika user masuk ke menu "Your Cart" tanpa adanya 
 
 Perhatikan urutan gambar 2.2 dari atas ke bawah, jadi setelah user melakukan memesan 4 item akan muncul 4 item pada cart. Kemudian user remove 1 item yang menjadi item di cart menjadi 3 item. Selanjutnya user klik tombol icon cart seperti gambar 2, item pada cart akan berkurang menjadi 2 item namun dengan kondisi gambar pada icon cart masih berjumlah 3. 
   
-</p>
 
 ## Logic Test : 10
+<p align="left">
+  Suppose you are in a group of 5 people and in that group there is 1 stick of wood, <br> and you are given the task to stand on the wooden stick, explain how the wooden stick did not break after 5 people stepped on it?
+
+Berdirilah bersamaan di atas wooden stick dengan cara menaruh wooden stick di atas kolam atau air
+</p>
+
+
+
+
+</p>
+
+## API Test : 20
 
 
 <p align="left">
