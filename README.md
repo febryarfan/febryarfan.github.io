@@ -23,7 +23,20 @@ Perhatikan urutan gambar 2.2 dari atas ke bawah, jadi setelah user melakukan mem
   
 </p>
 
-## Logic Test : 10
+# Logic Test : 10
+<p align="left">
+  Suppose you are in a group of 5 people and in that group there is 1 stick of wood, <br> and you are given the task to stand on the wooden stick, explain how the wooden stick did not break after 5 people stepped on it?
+
+Berdirilah bersamaan di atas wooden stick dengan cara menaruh wooden stick di atas kolam atau air
+</p>
+
+
+
+
+</p>
+
+## API Test : 20
+
 
 
 <p align="left">
